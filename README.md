@@ -1,0 +1,1 @@
+autorom is an android rom packaging software written in python. it will be modular, different phones will have different configurations to build installation packages. once built, these packages can be installed to the phone extremely easily, even for a beginner user.
