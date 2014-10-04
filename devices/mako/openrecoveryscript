@@ -1,0 +1,5 @@
+backup SDB
+wipe cache
+wipe dalvik
+wipe data
+install /sdcard/rom.zip
